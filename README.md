@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Suhani Kumari </h1>
-  <p><strong>Aspiring Software Engineer |Diploma in CSE |Diploma at GWP Jamshedpur</strong></p>
+  <p><strong>Aspiring Software Engineer |Diploma in CSE |Student at GWP Jamshedpur</strong></p>
   
   <p>📍 <strong>Jamshedpur, Jharkhand, India</strong></p>
 
@@ -15,11 +15,11 @@
 
 ### 🌟 About Me
 
-- 🎓 Pursuing my degree in **Computer Science & Engineering**.
-- 💻 Passionate about developing responsive, database-driven web applications and scalable software systems.
-- 🧠 Actively practicing **Data Structures & Algorithms** and mastering **Object-Oriented Programming (OOP)** principles.
-- 🤝 Open to collaborating on open-source projects, hackathons, and full-stack web development initiatives.
-
+- 🎓 Computer Science student at Government Women's Polytechnic, Jamshedpur.
+- 💻 Interested in Web Development and building simple, useful projects.
+- 🌱 Currently learning and practicing fundamentals of Python, Java, and Data Structures.
+- 💡 Passionate about exploring how software and systems work.
+- 🤝 Always excited to learn new technologies and collaborate with peers.
 ---
 
 ### 🛠️ Tech Stack & Proficiencies
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/DSA-Problem_Solving-orange?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/DSA with Python-orange?style=flat-square" alt="DSA" />
 </p>
 
 **Web & Database Development**  
@@ -51,9 +51,12 @@
 
 ### 📌 Featured Highlights & Interests
 
-- **Frontend Web Development:** Building secure dynamic web applications with user authentication, structured databases, and clean frontends.
-- **Software Lifecycle & Quality:** Strong foundation in Agile practices, modular system design, and clean architecture.
+- **Web Development:** Creating responsive frontend pages and working on full-stack web applications with database connectivity.
 - **Continuous Learning:** Exploring backend optimization, cloud services, and system design fundamentals.
+- **Core Learning:** Strengthening understanding of Data Structures, Object-Oriented Programming, and Operating Systems.
+- **Project Work:** Gaining hands-on experience through academic projects, team collaboration, and practical problem solving.
+- **Growth Mindset:** Constantly practicing code, exploring new tools, and improving my technical skill set.
+
 
 ---
 
@@ -63,8 +66,8 @@ I am always open to discussing new projects, tech ideas, or learning opportuniti
 
 - **Email:** [Contact](mailto:suhanikri2403@gmail.com)
 - **LinkedIn:** [Suhani Kumari](https://www.linkedin.com/in/suhani-kumari-751566392)
-- **Location:** Jamshedpur, Jharkhand, India
 - **Personal Portfolio:** [View My site](https://suhanihub2403.github.io/Personal-Portfolio/)
+- **Location:** Jamshedpur, Jharkhand, India
 
 ---
 
@@ -82,5 +85,5 @@ I am always open to discussing new projects, tech ideas, or learning opportuniti
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Never Stop Learning🚀"</i>
 </div>
