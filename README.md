@@ -17,7 +17,7 @@
 
 - 🎓 Computer Science student at Government Women's Polytechnic, Jamshedpur.
 - 💻 Interested in Web Development and building simple, useful projects.
-- 🌱 Currently learning and practicing fundamentals of Python, Java, and Data Structures.
+- 🌱 Currently learning AI/ML, Cloud computing and practicing fundamentals of Python, Java, and Data Structures.
 - 💡 Passionate about exploring how software and systems work.
 - 🤝 Always excited to learn new technologies and collaborate with peers.
 ---
