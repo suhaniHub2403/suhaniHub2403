@@ -2,7 +2,7 @@
   <h1>Hi!, I'm Suhani </h1>
   <p><strong>Aspiring Software Engineer |Diploma in CSE |Student at GWP Jamshedpur</strong></p>
   
-  <p>📍 <strong>Jamshedpur, Jharkhand, India</strong></p>
+  <p>📍 <strong>Jamshedpur, Jharkhand,</strong></p>
 
   <p>
     <a href="mailto:suhanikri2403@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -65,8 +65,8 @@ I am always open to discussing new projects, tech ideas, or learning opportuniti
 
 - **Email:** [Contact](mailto:suhanikri2403@gmail.com)
 - **LinkedIn:** [Suhani Kumari](https://www.linkedin.com/in/suhani-kumari-751566392)
-- **Personal Portfolio:** [View My site](https://suhanihub2403.github.io/Personal-Portfolio/)
-- **Location:** Jamshedpur, Jharkhand, India
+- **Personal Portfolio:** [View My Portfolio](https://suhanihub2403.github.io/Personal-Portfolio/)
+- **Location:** Jamshedpur, Jharkhand,
 
 ---
 
